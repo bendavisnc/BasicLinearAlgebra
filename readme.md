@@ -1,0 +1,1 @@
+#### A super simple android library that includes basic linear algebra functions (rotate, translate). Uses android's PointF class to represent a coordinate. 
